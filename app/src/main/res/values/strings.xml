@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">XML</string>
+    <string name="codingAcademy_lec0">codingAcademy_lec0</string>
 
     <string-array name="FROME">
         <item>From</item>

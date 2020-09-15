@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="button">#FF9800</color>
-    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimary">#B81212</color>
     <color name="colorPrimaryDark">#A7A2A2</color>
     <color name="colorAccent">#FFFFFF</color>
-    <color name="black">#000000</color>
+    <color name="black">#85A8E4</color>
     <color name="white">#FFFFFF</color>
     <color name="selver">#CFCACA</color>
     <color name="colrorPrimary">#008577</color>

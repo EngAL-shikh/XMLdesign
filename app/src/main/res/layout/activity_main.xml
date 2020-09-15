@@ -39,12 +39,13 @@
            android:layout_height="50dp">
 
        </TextView>
+
        <TextView
            android:id="@+id/com"
-           android:text="Comps email"
-
            android:layout_width="match_parent"
-           android:layout_height="match_parent">
+
+           android:layout_height="580dp"
+           android:text="Comps email">
 
        </TextView>
 
